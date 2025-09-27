@@ -1,6 +1,3 @@
-# Oracle-OCI-Data-Science-Saranya-Vellanki
-
-
 # My Learnings from OCI Data Science Professional Course
 
 I recently completed the Oracle Cloud Infrastructure (OCI) Data Science Professional course as part of the Oracle Race to Certification program.  
