@@ -7,7 +7,8 @@ This course was a complete journey through the ML lifecycle on OCI — from sett
 
 ## 📈 Progress
 
-![Progress Screenshot](Screenshot_2025-09-27-15-22-15-78_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![Screenshot_20250927_181625_Drive](https://github.com/user-attachments/assets/d4aaf820-7a54-46b7-927a-cfaae6db8655)
+
 
 ---
 
